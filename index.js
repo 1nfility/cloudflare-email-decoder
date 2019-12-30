@@ -26,5 +26,4 @@ module.exports = (body) => {
   });
 
   return tokens.map(decode);
-}
-this()
+};
